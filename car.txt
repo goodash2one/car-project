@@ -1,7 +1,7 @@
 Car
     Body
-        Manager:
-        Main Body:
+        Manager: HJ Lee
+        Main Body: Complete
         Exterior:
         Interior:
     Chassis
