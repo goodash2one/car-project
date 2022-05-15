@@ -2,8 +2,8 @@ Car
     Body
         Manager: HJ Lee
         Main Body: Complete
-        Exterior: Complete
-        Interior: Complete
+        Exterior:
+        Interior:
     Chassis
         Manager:
         Frame:

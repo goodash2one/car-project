@@ -1,4 +1,2 @@
 Body
     Main Body: Giga Press
-    Exterior: Italdesign Giugiaro
-    Interior: Italdesign Giugiaro
