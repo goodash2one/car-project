@@ -3,6 +3,6 @@ Chassis
     Engine: V6
     Power Train: FR
     Steering: EPS
-    Suspension: Double Wishbone
+    Suspension: Multi Link
     Brake: Ventilated Disk
     Wheel/Tire: 255/35/20
