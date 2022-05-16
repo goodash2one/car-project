@@ -1,6 +1,6 @@
 Chassis
     Frame: Unibody
-    Engine: I6
+    Engine: V6
     Power Train: FR
     Steering: EPS
     Suspension: Double Wishbone
