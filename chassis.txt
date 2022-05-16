@@ -1,7 +1,7 @@
 Chassis
     Frame: Unibody
     Engine: V6
-    Power Train: FR
+    Power Train: FF
     Steering: EPS
     Suspension: Multi Link
     Brake: Ventilated Disk
