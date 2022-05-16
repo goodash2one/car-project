@@ -9,7 +9,7 @@ Car
         Frame: Complete
         Engine: Complete
         Power Train: Complete
-        Steering:
-        Suspension:
-        Brake:
-        Wheel/Tire:
+        Steering: Complete
+        Suspension: Complete
+        Brake: Complete
+        Wheel/Tire: Complete

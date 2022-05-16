@@ -2,3 +2,7 @@ Chassis
     Frame: Unibody
     Engine: I6
     Power Train: FR
+    Steering: EPS
+    Suspension: Double Wishbone
+    Brake: Ventilated Disk
+    Wheel/Tire: 255/35/20
