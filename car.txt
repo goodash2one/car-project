@@ -8,7 +8,7 @@ Car
         Manager: badaxxtha
         Frame: Complete
         Engine: Complete
-        Power Train:
+        Power Train: Complete
         Steering:
         Suspension:
         Brake:
