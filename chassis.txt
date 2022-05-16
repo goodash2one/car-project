@@ -2,3 +2,4 @@ Chassis
     Steering: EPS
     Suspension: Double Wishbone
     Brake: Ventilated Disk
+    Wheel/Tire: 255/35/20

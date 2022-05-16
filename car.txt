@@ -12,4 +12,4 @@ Car
         Steering: Complete
         Suspension: Complete
         Brake: Complete
-        Wheel/Tire:
+        Wheel/Tire: Complete
