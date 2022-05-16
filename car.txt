@@ -10,6 +10,6 @@ Car
         Engine:
         Power Train:
         Steering: Complete
-        Suspension:
+        Suspension: Complete
         Brake:
         Wheel/Tire:
