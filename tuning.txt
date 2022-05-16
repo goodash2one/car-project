@@ -1,1 +1,3 @@
 Tuning list
+    Engine: I6 -> V6
+    Suspension: Double Wishbone -> Multi Link
