@@ -1,2 +1,4 @@
 Body
     Main Body: Giga Press
+    Exterior: Pininfarina
+    Interior: Pininfarina
