@@ -1,3 +1,4 @@
 Chassis
     Steering: EPS
     Suspension: Double Wishbone
+    Brake: Ventilated Disk

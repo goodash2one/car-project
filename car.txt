@@ -11,5 +11,5 @@ Car
         Power Train:
         Steering: Complete
         Suspension: Complete
-        Brake:
+        Brake: Complete
         Wheel/Tire:
