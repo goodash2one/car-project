@@ -1,1 +1,4 @@
 Chassis
+    Frame: Unibody
+    Engine: I6
+    Power Train: FR

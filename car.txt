@@ -6,9 +6,9 @@ Car
         Interior: Complete
     Chassis
         Manager: badaxxtha
-        Frame:
-        Engine:
-        Power Train:
+        Frame: Complete
+        Engine: Complete
+        Power Train: Complete
         Steering:
         Suspension:
         Brake:
